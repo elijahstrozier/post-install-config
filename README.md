@@ -27,7 +27,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Assinging Agents
 - Users (Customers) Configurations
 - SLA Configrurations
-- Help Topics Configurations 
+- Help Topics Configurations
+
+
+
+
+ROLES - GO TO ADMIN PANEL, SELECT AGENTS, SELECT ROLES. FROM THERE I ADDED A NEW ROLE AND NAMED IT SUPREME ADMIN.
 
 ![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/81e78da2-dc7f-48cf-8efc-67bd1f241413)
 
@@ -50,7 +55,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ROLES - Go to Admin Panel, Select Agents, select roles. From there  I add a new role and named it Supreme Admin.
 </p>
 <br />
 
