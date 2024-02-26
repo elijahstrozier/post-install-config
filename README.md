@@ -22,10 +22,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Assignig Roles
-- Configuring Departments
-- Configuring Teams
+- Departments Configurations
+- Teams Configurations
 - Assinging Agents
-- Configuring Users (Customers)
+- Users (Customers) Configurations
+- SLA Configrurations
+- Help Topics Configurations 
 
 ![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/81e78da2-dc7f-48cf-8efc-67bd1f241413)
 
@@ -38,6 +40,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/b5195501-a8d2-4e1e-ba13-9e4f81878b01)
 
 ![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/2fc8d908-361a-4ba7-af5b-8384267440fe)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/50c39863-ce6d-41cb-8744-0e4bb5e63041)
 
 
 <h2>Configuration Steps</h2>
