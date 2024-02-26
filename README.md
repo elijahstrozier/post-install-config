@@ -27,6 +27,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 4
 - Item 5
 
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/81e78da2-dc7f-48cf-8efc-67bd1f241413)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/1b996060-52fb-4eb6-a9ba-e0ade19a10a5)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/1b7cb5cf-accd-4e1d-8b0b-a6794a322b64)
+
 <h2>Configuration Steps</h2>
 
 <p>
