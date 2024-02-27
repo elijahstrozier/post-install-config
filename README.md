@@ -39,7 +39,7 @@ ROLES - ADDED A NEW ROLE AND NAMED IT SUPREME ADMIN.
 
 DEPARTMENTS - CONFIGURED DEPARTMENTS AND NAMED IT SYSTEM ADMINISTRATORS
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/1b996060-52fb-4eb6-a9ba-e0ade19a10a5)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/6d588297-51d9-4a55-9554-00799ef333ab)
 
 TEAMS - CONFIGURED A TEAM AND NAMED IT LEVEL II SUPPORT
 
