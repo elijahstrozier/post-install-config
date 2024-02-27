@@ -43,11 +43,12 @@ DEPARTMENTS - CONFIGURED DEPARTMENTS AND NAMED IT SYSTEM ADMINISTRATORS
 
 TEAMS - CONFIGURED A TEAM AND NAMED IT LEVEL II SUPPORT
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/1b7cb5cf-accd-4e1d-8b0b-a6794a322b64)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/b8e8a84c-959e-4dfa-ab17-0601897df3a6)
 
 AGENTS - CONFIGURED AND ADDED A FEW FICTIONAL AGENTS AND ASSIGNED THEM ROLES
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/88b7f38a-120e-47c8-9fb7-6ad0a89f1fab)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/bc657bdf-1e4b-4a9d-9436-28d274eee0c4)
+
 
 USERS/CUSTOMERS - ADDED FICTIONAL USERS/CUSTOMERS
 
