@@ -52,11 +52,25 @@ AGENTS - CONFIGURED AND ADDED A FEW FICTIONAL AGENTS AND ASSIGNED THEM ROLES
 
 USERS/CUSTOMERS - ADDED FICTIONAL USERS/CUSTOMERS
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/b5195501-a8d2-4e1e-ba13-9e4f81878b01)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/78bce0c6-d59e-4f0e-811c-871974d0d86b)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/7df98180-86ab-4340-8361-bba18e69e96d)
+
+
 
 SLA's - ADDED 3 SLA PLANS
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/2fc8d908-361a-4ba7-af5b-8384267440fe)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/7bd9fbc1-9663-4fd1-a727-2444d39b4498)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/6eecc678-98fa-4869-9f85-9ab82cb8ebb6)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/815606f6-74fb-4b85-a2c0-4a9308a5743a)
+
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/b75c9804-20b7-4a09-bb27-5f36ebb11c30)
+
+
+
+
 
 HELP TOPICS - CONFIGURED SOME COMMON HELP TOPICS
 
