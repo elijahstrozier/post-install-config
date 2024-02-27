@@ -34,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ROLES - ADDED A NEW ROLE AND NAMED IT SUPREME ADMIN.
 
-![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/81e78da2-dc7f-48cf-8efc-67bd1f241413)
+![image](https://github.com/elijahstrozier/post-install-config/assets/161254320/4a9e4d36-0ef7-49c9-8d34-84c5f810baae)
+
 
 DEPARTMENTS - CONFIGURED DEPARTMENTS AND NAMED IT SYSTEM ADMINISTRATORS
 
